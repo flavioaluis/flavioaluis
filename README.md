@@ -9,9 +9,8 @@
 - 👨‍💻  I’m currently working on full stack
 - 📚 I'm learning AWS, Docker and unitary tests (Jest / React Testing Lib)
 - 🤝 I'm open to new projects and knowledge exchange
--  Ask me about anything on Linkedin:
--  I can speak Portuguese, English and try Spanish with you
--  Fun fact: I'm also an athlete and a soccer player as a hobbie.
+- 🗣️ I can speak Portuguese, English and try Spanish with you
+- 🙃 Fun fact: I'm also an athlete and a soccer player as a hobbie.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="F-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
